@@ -2,16 +2,28 @@
 header{ color: darkblue;
 background-color: #D81E5B;
 text-align: center;
-padding:0;
+padding:2%;
 font-weight: bold;
 /*This is the styling for the header */
 }
+h1{
+font-size: 40px;
+
+}
 h2{
-color: #23395B;
-font-size: 12px;
+font-family:calibri;
+font-style: italic;
+
+
+}
+
+h3{
+color: navy;
+font-size: 18px;
 font-family: tahoma;
 }
 /*This is styling for the h2*/
+
 article{
 
 background-color: #59C9A5;
@@ -25,10 +37,7 @@ img{
   align:middle;
 }
 /*This is the styling fot the img*/
-h3{
-font-size: 12px;
-font-family:montserrat;
-}
+
 /*This is the styling for the h3 elements */
 
 footer{
