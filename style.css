@@ -13,8 +13,6 @@ font-size: 40px;
 h2{
 font-family:calibri;
 font-style: italic;
-
-
 }
 
 h3{
@@ -71,6 +69,8 @@ li {
 a{
 font-family: helvetica;
 font-size: 12px;
-
+}
+a:hover {
+  color: #FF00FF;
 }
 /*This is the styling for the links */
