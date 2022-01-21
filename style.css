@@ -70,7 +70,20 @@ a{
 font-family: helvetica;
 font-size: 12px;
 }
+
+
+/*This is the styling for the links */
+
+a:link {
+  color: #FF0000;
+}
+
+a:visited {
+  color: #00FF00;
+}
 a:hover {
   color: #FF00FF;
 }
-/*This is the styling for the links */
+a:active {
+  color: #0000FF;
+}
